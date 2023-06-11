@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.button {
+  font-weight: 700;
+  color: grey;
+  font-size: 21px;
+  font-family: Bree Serif;
+  padding: 10px;
+  background-color: transparent;
+  border: none;
+}
+
+.li-Element {
+  margin: 10px;
+}
+
+.activeBtn {
+  color: black;
+}
+
+.Hello {
+  border: 2px solid grey;
+  border-radius: 8px;
+  width: auto;
+  margin: 1px;
+}
+
+.pure-Hello {
+  border: 2px solid black;
+}
